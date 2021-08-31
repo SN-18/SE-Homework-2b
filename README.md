@@ -12,7 +12,7 @@ To be submitted as homework assignment HW-2b for the course Software Engineering
 * Radhika Toravi   (rtoravi@ncsu.edu)
 * Parth Parikh     (pmparikh@ncsu.edu)
 * Jessica Vargas   (jrvargas@ncsu.edu)
-* Rushikesh Deodhar(rdeodha@ncsu.edu)
+* Rushikesh Deodhar (rdeodha@ncsu.edu)
 
 ### Dependencies
 
