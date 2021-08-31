@@ -12,6 +12,7 @@ To be submitted as homework assignment HW-2b for the course Software Engineering
 * Radhika Toravi
 * Parth Parikh
 * Jessica Vargas
+* Rushikesh Deodhar
 
 ### Dependencies
 
