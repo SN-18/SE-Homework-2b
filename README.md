@@ -30,6 +30,8 @@ Lorem Ipsum Dolor
 
 * v1.0.0
     * Initial Release
+* v1.1.0
+    * New features: Includes executable src code, updated LICENSE info, updated COC and README.md to reflect progress made in project 
 
 ## License
 
