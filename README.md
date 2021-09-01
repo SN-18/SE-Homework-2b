@@ -42,4 +42,4 @@ Inspiration, code snippets, etc.
 * Lorem Ipsum Dolor
 
 ## Citation Data
-[![DOI](https://zenodo.org/badge/400828170.svg)](https://zenodo.org/badge/latestdoi/400828170)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5348588.svg)](https://doi.org/10.5281/zenodo.5348588)
