@@ -17,7 +17,7 @@ setup(
       """,
     keywords=['python', 'homework-2b'],
     classifiers=[
-          'License :: OSI Approved :: MIT License',,
+          'License :: OSI Approved :: MIT License',
           "Programming Language :: Python",
           "Development Status :: 1 - Planning",
           "Intended Audience :: Developers",
