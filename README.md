@@ -17,14 +17,19 @@ To be submitted as homework assignment HW-2b for the course Software Engineering
 ### Dependencies
 
 * Python-3
-
+[![Python-3](https://img.shields.io/badge/dependencies-python--3-lightgrey)](https://www.python.org/download/releases/3.0/)
+* Pandas Library
+[![Pandas Library](https://img.shields.io/badge/dependencies-pandas-lightgrey)](https://img.shields.io/badge/dependencies-pandas-lightgrey)
 
 ## Help
 
-Lorem Ipsum Dolor
+For any technical issues, contact:
 ```
-Lorem Ipsum Dolor
+Saurabh Nanda(snanda@ncsu.edu)
 ```
+
+## Workflow Status
+[![Workflow-Status](https://img.shields.io/badge/build%20test-failed-red)](https://github.com/SN-18/SE-Homework-2b/tree/main/.github/workflows)
 
 ## Version History
 
@@ -39,10 +44,8 @@ Lorem Ipsum Dolor
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
+* Professor Tim Menzies, CS Department, NCSU -for providing us the oppurtunity to work on this project
 
-Inspiration, code snippets, etc.
-* Lorem Ipsum Dolor
-* Lorem Ipsum Dolor
 
 ## Citation Data
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5348588.svg)](https://doi.org/10.5281/zenodo.5348588)
