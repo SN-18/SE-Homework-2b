@@ -24,5 +24,5 @@ setup(
           "Topic :: Software Development",
     ],
 
-    packages=["src"],
+    packages=["code"],
 )

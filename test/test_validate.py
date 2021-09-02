@@ -1,4 +1,4 @@
-from src.validate import Calculator
+from code.validate import Calculator
 import pytest
 val = Calculator()
 
