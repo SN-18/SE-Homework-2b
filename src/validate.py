@@ -1,6 +1,6 @@
 import functools
 import json
-import pandas as pd
+import csv
 
 """
 This code was created for our SE - CSC 510 class. The goal of the following code was to achieve the following:
@@ -90,9 +90,10 @@ class Calculator():
                 return FileNotFoundError
         else:
             try:
-                file = pd.read_csv(file).to_dict()
+                file = csv.reader(file, delimiter=',')
+                # file = pd.read_csv(file).to_dict()
                 # Converting into a JSON format for standardization
-                for eq in file: file[eq] = list(file[eq].values())[0]
+                # for eq in file: file[eq] = list(file[eq].values())[0]
             except:
                 return FileNotFoundError
         for name, eq in file.items():
