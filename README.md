@@ -30,6 +30,8 @@ Lorem Ipsum Dolor
 
 * v1.0.0
     * Initial Release
+* v1.1.0
+    * New features: Includes executable src code, updated LICENSE info, updated COC and README.md to reflect progress made in project 
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -43,4 +45,4 @@ Inspiration, code snippets, etc.
 * Lorem Ipsum Dolor
 
 ## Citation Data
-[![DOI](https://zenodo.org/badge/400828170.svg)](https://zenodo.org/badge/latestdoi/400828170)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5348588.svg)](https://doi.org/10.5281/zenodo.5348588)
