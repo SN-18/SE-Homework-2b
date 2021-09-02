@@ -12,7 +12,7 @@ To be submitted as homework assignment HW-2b for the course Software Engineering
 * Radhika Toravi   (rtoravi@ncsu.edu)
 * Parth Parikh     (pmparikh@ncsu.edu)
 * Jessica Vargas   (jrvargas@ncsu.edu)
-* Rushikesh Deodhar(Rdeodha@ncsu.edu)
+* Rushikesh Deodhar (rdeodha@ncsu.edu)
 
 ### Dependencies
 
@@ -34,6 +34,7 @@ Lorem Ipsum Dolor
     * New features: Includes executable src code, updated LICENSE info, updated COC and README.md to reflect progress made in project 
 
 ## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
